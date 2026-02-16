@@ -1,1 +1,1 @@
-# Page-Replacement-Algorithm-SImulator
+# Page-Replacement-Algorithm-Simulator
